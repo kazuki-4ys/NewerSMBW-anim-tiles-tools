@@ -15,7 +15,7 @@ NewerSMBWに使用されるアニメーション付きタイルセットに関�
 * `nsmbw_anim_tile_tex_tool.py d hatena_anime.bin <pngファイル出力先フォルダ>`
 * `nsmbw_anim_tile_tex_tool.py e <pngファイルが複数入ったフォルダ> hatena_anime.bin`
 
-## nsmbw_anim_tile_tex_tool.py
+## nwra_tool.py
 
 NewerSMBWに使用されるタイルセットのアニメーション指定に使用されるファイル(`NewerRes/AnimTiles.bin`)をjsonにデコード、jsonからエンコードするためのスクリプト。
 
